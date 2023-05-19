@@ -39,7 +39,7 @@ Turn off the blue LED
 Import this application to your modus project and go to file main.c
 BSP and device are already configured all you need is to program your function in main() under for;; loop.
 
-For example, the following code is to read the SENXIV sensor and print it on OLED.
+For example, the following code is to circle the RGB LED.
 
 
     for (;;)
