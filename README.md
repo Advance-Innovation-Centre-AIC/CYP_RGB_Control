@@ -22,16 +22,27 @@ which include
 These functions will turn on RGB led on CY8CKIT-062S2043012 following this
 
 **led_green_on(void)**
+
 Turn on the green LED 
-******led_green_off(void)**
+
+**led_green_off(void)**
+
 Turn off the green LED 
-******led_red_on(void)**
+
+**led_red_on(void)**
+
 Turn on the red LED 
-******led_red_off(void)**
+
+**led_red_off(void)**
+
 Turn off the red LED 
-******led_blue_on(void)**
+
+**led_blue_on(void)**
+
 Turn on the blue LED 
-******led_blue_off(void)**
+
+**led_blue_off(void)**
+
 Turn off the blue LED 
 
 ## How to use
